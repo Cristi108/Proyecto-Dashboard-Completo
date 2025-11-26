@@ -12,11 +12,11 @@ El siguiente dashboard resume los hallazgos principales:
 
 El archivo best-selling-books.csv contiene columnas como:
 
-\nBook
-n\Author(s)
-Original language
-First published
-Approximate sales in millions
+Book,
+Author(s),
+Original language,
+First published,
+Approximate sales in millions,
 Genre
 
 # Insights principales
@@ -37,7 +37,7 @@ El inglés y el francés muestran los mayores promedios de ventas.
 
 # Tecnologías utilizadas
 
-Python 3
-Pandas
-Matplotlib
-Google Colab
+Python 3,
+Pandas,
+Matplotlib,
+Google Colab,
