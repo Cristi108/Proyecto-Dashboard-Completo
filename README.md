@@ -17,7 +17,7 @@ Author(s),
 Original language,
 First published,
 Approximate sales in millions,
-Genre
+Genre.
 
 # Insights principales
 1. Géneros más comunes: 
@@ -40,4 +40,4 @@ El inglés y el francés muestran los mayores promedios de ventas.
 Python 3,
 Pandas,
 Matplotlib,
-Google Colab,
+Google Colab.
