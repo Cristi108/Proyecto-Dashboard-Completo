@@ -12,8 +12,8 @@ El siguiente dashboard resume los hallazgos principales:
 
 El archivo best-selling-books.csv contiene columnas como:
 
-Book
-Author(s)
+\nBook
+n\Author(s)
 Original language
 First published
 Approximate sales in millions
