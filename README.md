@@ -20,19 +20,19 @@ Approximate sales in millions
 Genre
 
 # Insights principales
-1. Géneros más comunes
+1. Géneros más comunes: 
 Los géneros más frecuentes incluyen fantasy, historical fiction y mystery.
 
-2. Idiomas predominantes
+2. Idiomas predominantes:
 El inglés domina ampliamente la lista de libros más vendidos.
 
-3. Distribución en el tiempo
+3. Distribución en el tiempo:
 La mayoría de los libros fueron publicados entre 1850 y 2000.
 
-4. Autores más repetidos
+4. Autores más repetidos:
 Autores como Agatha Christie y J.K. Rowling aparecen múltiples veces.
 
-5. Ventas promedio por idioma
+5. Ventas promedio por idioma:
 El inglés y el francés muestran los mayores promedios de ventas.
 
 # Tecnologías utilizadas
